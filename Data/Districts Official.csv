@@ -1,0 +1,122 @@
+,State,District,Population,state_dist
+1,Bihar,Araria,2811569,Bihar-Araria
+2,Bihar,Darbhanga,3921971,Bihar-Darbhanga
+3,Bihar,East Champaran,5082868,Bihar-East Champaran
+4,Bihar,Gopalganj,2558037,Bihar-Gopalganj
+5,Bihar,Khagaria,1657599,Bihar-Khagaria
+6,Bihar,Lakhisarai,1000717,Bihar-Lakhisarai
+7,Bihar,Madhubani,4476044,Bihar-Madhubani
+8,Bihar,Muzaffarpur,4778610,Bihar-Muzaffarpur
+9,Bihar,Nalanda,2872523,Bihar-Nalanda
+10,Bihar,Patna,5772804,Bihar-Patna
+11,Bihar,Samastipur,4254782,Bihar-Samastipur
+12,Bihar,Sheohar,656916,Bihar-Sheohar
+13,Bihar,Sitamarhi,3419622,Bihar-Sitamarhi
+14,Bihar,Siwan,3318176,Bihar-Siwan
+15,Bihar,Supaul,2228397,Bihar-Supaul
+16,Bihar,West Champaran,3935042,Bihar-West Champaran
+17,Bihar,Arwal,700843,Bihar-Arwal
+18,Bihar,Aurangabad,2540073,Bihar-Aurangabad
+19,Bihar,Banka,2034763,Bihar-Banka
+20,Bihar,Begusarai,2970541,Bihar-Begusarai
+21,Bihar,Bhagalpur,3037766,Bihar-Bhagalpur
+22,Bihar,Bhojpur,2728407,Bihar-Bhojpur
+23,Bihar,Buxar,1706352,Bihar-Buxar
+24,Bihar,Gaya,4391418,Bihar-Gaya
+25,Bihar,Jamui,1760405,Bihar-Jamui
+26,Bihar,Jehanabad,1125313,Bihar-Jehanabad
+27,Bihar,Kaimur,1626384,Bihar-Kaimur
+28,Bihar,Katihar,3071029,Bihar-Katihar
+29,Bihar,Kishanganj,1690400,Bihar-Kishanganj
+30,Bihar,Madhepura,2001762,Bihar-Madhepura
+31,Bihar,Munger,1367765,Bihar-Munger
+32,Bihar,Nawada,2219146,Bihar-Nawada
+33,Bihar,Purnia,3264619,Bihar-Purnia
+34,Bihar,Rohtas,2959918,Bihar-Rohtas
+35,Bihar,Saharsa,1900661,Bihar-Saharsa
+36,Bihar,Saran,3951862,Bihar-Saran
+37,Bihar,Sheikhpura,636342,Bihar-Sheikhpura
+38,Bihar,Vaishali,3495021,Bihar-Vaishali
+39,Chandigarh,Chandigarh,1055450,Chandigarh-Chandigarh
+40,Delhi,Delhi,19814000,Delhi-Delhi
+41,Gujarat,Banaskantha,3116045,Gujarat-Banaskantha
+42,Gujarat,Gandhinagar,1387478,Gujarat-Gandhinagar
+43,Gujarat,Junagadh,2742291,Gujarat-Junagadh
+44,Gujarat,Morbi,960329,Gujarat-Morbi
+45,Gujarat,Surat,4996391,Gujarat-Surat
+46,Gujarat,Surendranagar,1755873,Gujarat-Surendranagar
+47,Haryana,Bhiwani,1629109,Haryana-Bhiwani
+48,Haryana,Gurugram,1514085,Haryana-Gurugram
+49,Haryana,Hisar,1742815,Haryana-Hisar
+50,Haryana,Jhajjar,956907,Haryana-Jhajjar
+51,Haryana,Karnal,1506323,Haryana-Karnal
+52,Haryana,Mahendragarh,921680,Haryana-Mahendragarh
+53,Haryana,Nuh,1089406,Haryana-Nuh
+54,Haryana,Panchkula,558890,Haryana-Panchkula
+55,Haryana,Panipat,1202811,Haryana-Panipat
+56,Haryana,Rewari,896129,Haryana-Rewari
+57,Haryana,Rohtak,1058683,Haryana-Rohtak
+58,Haryana,Sonipat,1480080,Haryana-Sonipat
+59,Jharkhand,Hazaribagh,1734005,Jharkhand-Hazaribagh
+60,Jharkhand,Latehar,725673,Jharkhand-Latehar
+61,Jharkhand,Ranchi,2912022,Jharkhand-Ranchi
+62,Karnataka,Bengaluru Rural,987257,Karnataka-Bengaluru Rural
+63,Karnataka,Bengaluru Urban,9588910,Karnataka-Bengaluru Urban
+64,Karnataka,Chamarajanagara,1020962,Karnataka-Chamarajanagara
+65,Karnataka,Hassan,1776221,Karnataka-Hassan
+66,Karnataka,Kalaburagi,2564892,Karnataka-Kalaburagi
+67,Karnataka,Koppal,1391292,Karnataka-Koppal
+68,Karnataka,Mysuru,2994744,Karnataka-Mysuru
+69,Karnataka,Raichur,1924773,Karnataka-Raichur
+70,Karnataka,Tumakuru,2681449,Karnataka-Tumakuru
+71,Karnataka,Vijayapura,2175102,Karnataka-Vijayapura
+72,Karnataka,Yadgir,1172985,Karnataka-Yadgir
+73,Madhya Pradesh,Balaghat,1701156,Madhya Pradesh-Balaghat
+74,Madhya Pradesh,Betul,1575247,Madhya Pradesh-Betul
+75,Madhya Pradesh,Bhopal,2368145,Madhya Pradesh-Bhopal
+76,Madhya Pradesh,Dindori,704218,Madhya Pradesh-Dindori
+77,Madhya Pradesh,Hoshangabad,1240975,Madhya Pradesh-Hoshangabad
+78,Madhya Pradesh,Mandla,1053522,Madhya Pradesh-Mandla
+79,Madhya Pradesh,Shajapur,1512353,Madhya Pradesh-Shajapur
+80,Maharashtra,Bhandara,1198810,Maharashtra-Bhandara
+81,Maharashtra,Chandrapur,2194262,Maharashtra-Chandrapur
+82,Maharashtra,Gadchiroli,1071795,Maharashtra-Gadchiroli
+83,Maharashtra,Gondia,1322331,Maharashtra-Gondia
+84,Maharashtra,Mumbai,12442373,Maharashtra-Mumbai
+85,Maharashtra,Nagpur,4653171,Maharashtra-Nagpur
+86,Maharashtra,Raigad,2635394,Maharashtra-Raigad
+87,Maharashtra,Thane,11060148,Maharashtra-Thane
+88,Maharashtra,Wardha,1296157,Maharashtra-Wardha
+89,Odisha,Angul,1271703,Odisha-Angul
+90,Odisha,Cuttack,2618708,Odisha-Cuttack
+91,Odisha,Ganjam,3520151,Odisha-Ganjam
+92,Odisha,Jajpur,1826275,Odisha-Jajpur
+93,Odisha,Khordha,2246341,Odisha-Khordha
+94,Odisha,Sundargarh,2080664,Odisha-Sundargarh
+95,Punjab,Bathinda,1388859,Punjab-Bathinda
+96,Punjab,Faridkot,618008,Punjab-Faridkot
+97,Punjab,Fatehgarh Sahib,599814,Punjab-Fatehgarh Sahib
+98,Punjab,Ferozepur,2026831,Punjab-Ferozepur
+99,Punjab,Ludhiana,3487882,Punjab-Ludhiana
+100,Punjab,Moga,992289,Punjab-Moga
+101,Punjab,Patiala,2892282,Punjab-Patiala
+102,Rajasthan,Bhilwara,2410459,Rajasthan-Bhilwara
+103,Rajasthan,Bundi,1113725,Rajasthan-Bundi
+104,Rajasthan,Churu,2041172,Rajasthan-Churu
+105,Rajasthan,Dausa,1637226,Rajasthan-Dausa
+106,Rajasthan,Dungarpur,1388906,Rajasthan-Dungarpur
+107,Rajasthan,Jaipur,6663971,Rajasthan-Jaipur
+108,Rajasthan,Jhunjhunu,2139658,Rajasthan-Jhunjhunu
+109,Rajasthan,Sikar,2677737,Rajasthan-Sikar
+110,Rajasthan,Udaipur,3067549,Rajasthan-Udaipur
+111,Tamil Nadu,Chennai,7100000,Tamil Nadu-Chennai
+112,Tamil Nadu,Coimbatore,3472578,Tamil Nadu-Coimbatore
+113,Tamil Nadu,Dharmapuri,1502900,Tamil Nadu-Dharmapuri
+114,Tamil Nadu,Kancheepuram,1166401,Tamil Nadu-Kancheepuram
+115,Tamil Nadu,Kanyakumari,1863178,Tamil Nadu-Kanyakumari
+116,Tamil Nadu,Karur,1076588,Tamil Nadu-Karur
+117,Tamil Nadu,Thiruvallur,3725697,Tamil Nadu-Thiruvallur
+118,Tamil Nadu,Tiruchirappalli,2713858,Tamil Nadu-Tiruchirappalli
+119,Tamil Nadu,Tiruvannamalai,2468965,Tamil Nadu-Tiruvannamalai
+120,Tamil Nadu,Virudhunagar,1943309,Tamil Nadu-Virudhunagar
+121,Uttar Pradesh,Lucknow,4588455,Uttar Pradesh-Lucknow

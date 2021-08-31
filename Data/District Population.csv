@@ -1,0 +1,122 @@
+state,dist,key,pop
+Bihar,Araria,Bihar-Araria,2811569
+Bihar,Darbhanga,Bihar-Darbhanga,3921971
+Bihar,East Champaran,Bihar-East Champaran,5082868
+Bihar,Gopalganj,Bihar-Gopalganj,2558037
+Bihar,Khagaria,Bihar-Khagaria,1657599
+Bihar,Lakhisarai,Bihar-Lakhisarai,1000717
+Bihar,Madhubani,Bihar-Madhubani,4476044
+Bihar,Muzaffarpur,Bihar-Muzaffarpur,4778610
+Bihar,Nalanda,Bihar-Nalanda,2872523
+Bihar,Patna,Bihar-Nalanda,5772804
+Bihar,Samastipur,Bihar-Samastipur,4254782
+Bihar,Sheohar,Bihar-Sheohar,656916
+Bihar,Sitamarhi,Bihar-Sitamarhi,3419622
+Bihar,Siwan,Bihar-Siwan,3318176
+Bihar,Supaul,Bihar-Supaul,2228397
+Bihar,West Champaran,Bihar-West Champaran,3935042
+Bihar,Arwal,Bihar-Arwal,700843
+Bihar,Aurangabad,Bihar-Aurangabad,2540073
+Bihar,Banka,Bihar-Banka,2034763
+Bihar,Begusarai,Bihar-Begusarai,2970541
+Bihar,Bhagalpur,Bihar-Bhagalpur,3037766
+Bihar,Bhojpur,Bihar-Bhojpur,2728407
+Bihar,Buxar,Bihar-Buxar,1706352
+Bihar,Gaya,Bihar-Gaya,4391418
+Bihar,Jamui,Bihar-Jamui,1760405
+Bihar,Jehanabad,Bihar-Jehanabad,1125313
+Bihar,Kaimur,Bihar-Kaimur,1626384
+Bihar,Katihar,Bihar-Katihar,3071029
+Bihar,Kishanganj,Bihar-Kishanganj,1690400
+Bihar,Madhepura,Bihar-Madhepura,2001762
+Bihar,Munger,Bihar-Munger,1367765
+Bihar,Nawada,Bihar-Nawada,2219146
+Bihar,Purnia,Bihar-Purnia,3264619
+Bihar,Rohtas,Bihar-Rohtas,2959918
+Bihar,Saharsa,Bihar-Saharsa,1900661
+Bihar,Saran,Bihar-Saran,3951862
+Bihar,Sheikhpura,Bihar-Sheikhpura,636342
+Bihar,Vaishali,Bihar-Vaishali,3495021
+Chandigarh,Chandigarh,Chandigarh-Chandigarh,1055450
+Delhi,New Delhi,Delhi-Delhi,19814000
+Gujarat,Banaskantha,Gujarat-Banaskantha,3116045
+Gujarat,Gandhinagar,Gujarat-Gandhinagar,1387478
+Gujarat,Junagadh,Gujarat-Junagadh,2742291
+Gujarat,Morbi,Gujarat-Morbi,960329
+Gujarat,Surat,Gujarat-Surat,4996391
+Gujarat,Surendranagar,Gujarat-Surendranagar,1755873
+Haryana,Bhiwani,Haryana-Bhiwani,1629109
+Haryana,Gurgaon,Haryana-Gurugram,1514085
+Haryana,Hisar,Haryana-Hisar,1742815
+Haryana,Jhajjar,Haryana-Jhajjar,956907
+Haryana,Karnal,Haryana-Karnal,1506323
+Haryana,Mahendragarh,Haryana-Mahendragarh,921680
+Haryana,Nuh,Haryana-Nuh,1089406
+Haryana,Panchkula,Haryana-Panchkula,558890
+Haryana,Panipat,Haryana-Panipat,1202811
+Haryana,Rewari,Haryana-Rewari,896129
+Haryana,Rohtak,Haryana-Rohtak,1058683
+Haryana,Sonipat,Haryana-Sonipat,1480080
+Jharkhand,Hazaribagh,Jharkhand-Hazaribagh,1734005
+Jharkhand,Latehar,Jharkhand-Latehar,725673
+Jharkhand,Ranchi,Jharkhand-Ranchi,2912022
+Karnataka,Bangalore Rural,Karnataka-Bengaluru Rural,987257
+Karnataka,Bangalore Urban,Karnataka-Bengaluru Urban,9588910
+Karnataka,Chamarajanagar,Karnataka-Chamarajanagara,1020962
+Karnataka,Hassan,Karnataka-Hassan,1776221
+Karnataka,Kalaburagi,Karnataka-Kalaburagi,2564892
+Karnataka,Koppal,Karnataka-Koppal,1391292
+Karnataka,Mysore,Karnataka-Mysuru,2994744
+Karnataka,Raichur,Karnataka-Raichur,1924773
+Karnataka,Tumkur,Karnataka-Tumakuru,2681449
+Karnataka,Vijayapura,Karnataka-Vijayapura,2175102
+Karnataka,Yadgir,Karnataka-Yadgir,1172985
+Madhya Pradesh,Balaghat,Madhya Pradesh-Balaghat,1701156
+Madhya Pradesh,Betul,Madhya Pradesh-Betul,1575247
+Madhya Pradesh,Bhopal,Madhya Pradesh-Bhopal,2368145
+Madhya Pradesh,Dindori,Madhya Pradesh-Dindori,704218
+Madhya Pradesh,Hoshangabad,Madhya Pradesh-Hoshangabad,1240975
+Madhya Pradesh,Mandla,Madhya Pradesh-Mandla,1053522
+Madhya Pradesh,Shajapur,Madhya Pradesh-Shajapur,1512353
+Maharashtra,Bhandara,Maharashtra-Bhandara,1198810
+Maharashtra,Chandrapur,Maharashtra-Chandrapur,2194262
+Maharashtra,Gadchiroli,Maharashtra-Gadchiroli,1071795
+Maharashtra,Gondia,Maharashtra-Gondia,1322331
+Maharashtra,Mumbai,Maharashtra-Mumbai,12442373
+Maharashtra,Nagpur,Maharashtra-Nagpur,4653171
+Maharashtra,Raigad,Maharashtra-Raigad,2635394
+Maharashtra,Thane,Maharashtra-Thane,11060148
+Maharashtra,Wardha,Maharashtra-Wardha,1296157
+Odisha,Angul,Odisha-Angul,1271703
+Odisha,Cuttack,Odisha-Cuttack,2618708
+Odisha,Ganjam,Odisha-Ganjam,3520151
+Odisha,Jajpur,Odisha-Jajpur,1826275
+Odisha,Khurda,Odisha-Khordha,2246341
+Odisha,Sundargarh,Odisha-Sundargarh,2080664
+Punjab,Bathinda,Punjab-Bathinda,1388859
+Punjab,Faridkot,Punjab-Faridkot,618008
+Punjab,Fatehgarh Sahib,Punjab-Fatehgarh Sahib,599814
+Punjab,Ferozpur,Punjab-Ferozepur,2026831
+Punjab,Ludhiana,Punjab-Ludhiana,3487882
+Punjab,Moga,Punjab-Moga,992289
+Punjab,Patiala,Punjab-Patiala,2892282
+Rajasthan,Bhilwara,Rajasthan-Bhilwara,2410459
+Rajasthan,Bundi,Rajasthan-Bundi,1113725
+Rajasthan,Churu,Rajasthan-Churu,2041172
+Rajasthan,Dausa,Rajasthan-Dausa,1637226
+Rajasthan,Dungarpur,Rajasthan-Dungarpur,1388906
+Rajasthan,Jaipur,Rajasthan-Jaipur,6663971
+Rajasthan,Jhunjhunu,Rajasthan-Jhunjhunu,2139658
+Rajasthan,Sikar,Rajasthan-Sikar,2677737
+Rajasthan,Udaipur,Rajasthan-Udaipur,3067549
+Tamil Nadu,Chennai,Tamil Nadu-Chennai,7100000
+Tamil Nadu,Coimbatore,Tamil Nadu-Coimbatore,3472578
+Tamil Nadu,Dharmapuri,Tamil Nadu-Dharmapuri,1502900
+Tamil Nadu,Kanchipuram,Tamil Nadu-Kancheepuram,1166401
+Tamil Nadu,Kanyakumari,Tamil Nadu-Kanyakumari,1863178
+Tamil Nadu,Karur,Tamil Nadu-Karur,1076588
+Tamil Nadu,Tiruvallur,Tamil Nadu-Thiruvallur,3725697
+Tamil Nadu,Tiruchirappalli,Tamil Nadu-Tiruchirappalli,2713858
+Tamil Nadu,Tiruvannamalai,Tamil Nadu-Tiruvannamalai,2468965
+Tamil Nadu,Virudhunagar,Tamil Nadu-Virudhunagar,1943309
+Uttar Pradesh,Lucknow,Uttar Pradesh-Lucknow,4588455
