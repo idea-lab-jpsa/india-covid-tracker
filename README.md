@@ -10,4 +10,4 @@ The COVID-19 cases and vaccination data used in this dashboard comes from the th
 The dashboard is currently deployed here: https://idealab.shinyapps.io/covid_update/
 
 ## Contact 
-For any questions about the dashboard please write to mayank.bhushan@ifmr.ac.in
+For any questions about the dashboard please write to mayank.bhushan@ifmr.ac.in or all.idealsa@povertyactionlab.org
